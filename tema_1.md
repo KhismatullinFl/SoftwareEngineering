@@ -39,7 +39,7 @@
 ## Лабораторная работа №2
 ### Настройка.
 ### Результат.
-![Меню]()
+![Меню](https://github.com/KhismatullinFl/SoftwareEngineering/blob/tema_1/images/s2.png)
 
 ## Выводы
 Был настроен git
@@ -47,7 +47,7 @@
 ## Лабораторная работа №3
 ### Создание нового репозитория.
 ### Результат.
-![Меню]()
+![Меню](https://github.com/KhismatullinFl/SoftwareEngineering/blob/tema_1/images/s3.png)
 
 ## Выводы
 Был создан новый репозиторий
@@ -55,7 +55,7 @@
 ## Лабораторная работа №4
 ### Подготовка файлов.
 ### Результат.
-![Меню]()
+![Меню](https://github.com/KhismatullinFl/SoftwareEngineering/blob/tema_1/images/s4.png)
 
 ## Выводы
 Был подготовлен файл
@@ -63,7 +63,7 @@
 ## Лабораторная работа №5
 ### Фиксация изменений.
 ### Результат.
-![Меню]()
+![Меню](https://github.com/KhismatullinFl/SoftwareEngineering/blob/tema_1/images/s5.png)
 
 ## Выводы
 Были зафиксированы изменения
@@ -71,7 +71,7 @@
 ## Лабораторная работа №6
 ### Подключение к удаленному репозиторию.
 ### Результат.
-![Меню]()
+![Меню](https://github.com/KhismatullinFl/SoftwareEngineering/blob/tema_1/images/s6.png)
 
 ## Выводы
 Было подключение к удаленному репозиторию
@@ -79,7 +79,7 @@
 ## Лабораторная работа №7
 ### Ветвление.
 ### Результат.
-![Меню]()
+![Меню](https://github.com/KhismatullinFl/SoftwareEngineering/blob/tema_1/images/s7.png)
 
 ## Выводы
 Было использовано ветвление
@@ -87,7 +87,7 @@
 ## Лабораторная работа №8
 ### Особенности применения «Фетч».
 ### Результат.
-![Меню]()
+![Меню](https://github.com/KhismatullinFl/SoftwareEngineering/blob/tema_1/images/s8.png)
 
 ## Выводы
 Было использовано фетч
@@ -95,7 +95,7 @@
 ## Лабораторная работа №9
 ### Удаление файлов, веток, локальных и удалённых репозиториев.
 ### Результат.
-![Меню]()
+![Меню](https://github.com/KhismatullinFl/SoftwareEngineering/blob/tema_1/images/s9.png)
 
 ## Выводы
 Произошло удаление файлов, веток, локальных и удалённых репозиториев
@@ -103,7 +103,7 @@
 ## Лабораторная работа №10
 ### Отслеживание изменений в коммитах.
 ### Результат.
-![Меню]()
+![Меню](https://github.com/KhismatullinFl/SoftwareEngineering/blob/tema_1/images/s10.png)
 
 ## Выводы
 Произошло отслеживание изменений в коммитах
@@ -111,7 +111,7 @@
 ## Лабораторная работа №11
 ### Возвращение файла к предыдущему (определенному) состоянию.
 ### Результат.
-![Меню]()
+![Меню](https://github.com/KhismatullinFl/SoftwareEngineering/blob/tema_1/images/s11.png)
 
 ## Выводы
 Произошло возвращение файла к предыдущему (определенному) состоянию
@@ -119,7 +119,7 @@
 ## Лабораторная работа №12
 ### Возвращение к предыдущему коммиту.
 ### Результат.
-![Меню]()
+![Меню](https://github.com/KhismatullinFl/SoftwareEngineering/blob/tema_1/images/s12.png)
 
 ## Выводы
 Произошло возвращение к предыдущему коммиту
@@ -127,7 +127,7 @@
 ## Лабораторная работа №13
 ### Исправление коммита.
 ### Результат.
-![Меню]()
+![Меню](https://github.com/KhismatullinFl/SoftwareEngineering/blob/tema_1/images/s13.png)
 
 ## Выводы
 Произошло исправление коммита
@@ -135,7 +135,7 @@
 ## Лабораторная работа №14
 ### Разрешение конфликтов при слиянии.
 ### Результат.
-![Меню]()
+![Меню](https://github.com/KhismatullinFl/SoftwareEngineering/blob/tema_1/images/s14.png)
 
 ## Выводы
 Произошло разрешение конфликтов при слиянии
@@ -143,7 +143,7 @@
 ## Лабораторная работа №15
 ### Настройка .gitignore.
 ### Результат.
-![Меню]()
+![Меню](https://github.com/KhismatullinFl/SoftwareEngineering/blob/tema_1/images/s15.png)
 
 ## Выводы
 Освоил настройку gitignore
