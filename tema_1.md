@@ -31,7 +31,7 @@
 ## Лабораторная работа №1
 ### Установка.
 ### Результат.
-![Меню]()
+![Меню](https://github.com/KhismatullinFl/SoftwareEngineering/blob/tema_1/images/s1.png)
 
 ## Выводы
 Был установлен git
