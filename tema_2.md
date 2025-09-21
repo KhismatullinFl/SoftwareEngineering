@@ -31,7 +31,7 @@ print('123')
 print(1.23)
 ```
 ### Результат.
-![Меню]()
+![Меню](https://github.com/KhismatullinFl/SoftwareEngineering/blob/tema_2/images/l1.png)
 
 ## Выводы
 Код выводит число 123, строку '123', число с плавающей точкой 1.23
