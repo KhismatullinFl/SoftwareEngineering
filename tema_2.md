@@ -45,7 +45,7 @@ print(5.1+8.27)
 print(3+7.04+1+2.33)
 ```
 ### Результат.
-![Меню]()
+![Меню](https://github.com/KhismatullinFl/SoftwareEngineering/blob/tema_2/images/l2.png)
 
 ## Выводы
 Код вычисляет и выводит три числа 1337, 13.37, 13.37
@@ -64,10 +64,11 @@ two = 'Мир!'
 print(one+two)
 ```
 ### Результат.
-![Меню]()
+![Меню](https://github.com/KhismatullinFl/SoftwareEngineering/blob/tema_2/images/l3.png)
 
 ## Выводы
 Код три раза выводит 'Привет, Мир!'
+
 ## Лабораторная работа №4
 ### Выведите в консоль три строки. Первая – трансформация любого типа переменной в bool. Вторая – трансформация любого типа переменной в float или int. Третья – трансформация любого типа переменной в str.
 
@@ -80,7 +81,7 @@ three = None
 print(str(three))
 ```
 ### Результат.
-![Меню]()
+![Меню](https://github.com/KhismatullinFl/SoftwareEngineering/blob/tema_2/images/l4.png)
 
 ## Выводы
 Код создает переменные one со строкой 'Hello', two с числом 142, three со значением None, выводит значения True, 142.0, None
@@ -95,7 +96,7 @@ three = input('three:')
 print(one, two, three)
 ```
 ### Результат.
-![Меню]()
+![Меню](https://github.com/KhismatullinFl/SoftwareEngineering/blob/tema_2/images/l5.png)
 
 ## Выводы
 Код три раза запрашивает у пользователя ввод с помощью функции input, сохраняет введенные значения в переменные one, two и three, выводит значения 
@@ -112,7 +113,7 @@ print('Целочисленное деление:', a//b)
 print('Нахождение остатка от деления:', a%b)
 ```
 ### Результат.
-![Меню]()
+![Меню](https://github.com/KhismatullinFl/SoftwareEngineering/blob/tema_2/images/l6.png)
 
 ## Выводы
 Код присваивает переменным a и b значения 12 и 5, а затем выводит четыре результата: возведение в степень, обычное деление, целочисленное деление и остаток от деления 
@@ -125,7 +126,7 @@ line = 'Hello!'
 print(line * 6)
 ```
 ### Результат.
-![Меню]()
+![Меню](https://github.com/KhismatullinFl/SoftwareEngineering/blob/tema_2/images/l7.png)
 
 ## Выводы
 Код берет строку 'Hello!' и выводит ее шесть раз подряд в одну строку без пробелов
@@ -138,7 +139,7 @@ sentence = 'Hello World'
 print(sentence.count('o'))
 ```
 ### Результат.
-![Меню]()
+![Меню](https://github.com/KhismatullinFl/SoftwareEngineering/blob/tema_2/images/l8.png)
 
 ## Выводы
 Код считает, сколько раз в строке 'Hello World' встречается буква 'o' и выводит число 2
@@ -151,7 +152,7 @@ print(sentence.count('o'))
 print('Hello\nWorld')
 ```
 ### Результат.
-![Меню]()
+![Меню](https://github.com/KhismatullinFl/SoftwareEngineering/blob/tema_2/images/l9.png)
 
 ## Выводы
 Код выводит на экран Hello, а затем на следующей строке World из‑за символа \n.
@@ -165,7 +166,7 @@ print(sentence [1])
 print(sentence[:5])
 ```
 ### Результат.
-![Меню]()
+![Меню](https://github.com/KhismatullinFl/SoftwareEngineering/blob/tema_2/images/l10.png)
 
 ## Выводы
 Код выводит второй символ строки sentence, а затем первые пять символов строки.
@@ -177,7 +178,7 @@ print(sentence[:5])
 print(0==1)
 ```
 ### Результат.
-![Меню]()
+![Меню](https://github.com/KhismatullinFl/SoftwareEngineering/blob/tema_2/images/s1.png)
 
 ## Выводы
 Код проверяет, равны ли 0 и 1, и выводит False, потому что они не равны
@@ -190,7 +191,7 @@ a, b, c = 123, '123', 1.23
 print(a, b, c)
 ```
 ### Результат.
-![Меню]()
+![Меню](https://github.com/KhismatullinFl/SoftwareEngineering/blob/tema_2/images/s2.png)
 
 ## Выводы
 Код присваивает переменным a, b и c значения 123, '123' и 1.23 выводит их на экран
@@ -203,7 +204,7 @@ num = int(input())
 print(num)
 ```
 ### Результат.
-![Меню]()
+![Меню](https://github.com/KhismatullinFl/SoftwareEngineering/blob/tema_2/images/s3.png)
 
 ## Выводы
 Код присваивает введенное пользователем целое число и выводит его на экран
@@ -216,7 +217,7 @@ s = 'abcde'
 print(s*4)
 ```
 ### Результат.
-![Меню]()
+![Меню](https://github.com/KhismatullinFl/SoftwareEngineering/blob/tema_2/images/s4.png)
 
 ## Выводы
 Код выводит строку s = 'abcde' четыре раза подряд получая abcdeabcdeabcdeabcde.
@@ -229,7 +230,7 @@ day, month, year = 21, 'Сентября', 2025
 print(f'Сегодня {day} {month} {year}.', end=' Всего хорошего!')
 ```
 ### Результат.
-![Меню]()
+![Меню](https://github.com/KhismatullinFl/SoftwareEngineering/blob/tema_2/images/s5.png)
 
 ## Выводы
 Код задает переменные day, month, year и выводит на экран строку Сегодня 21 Сентября 2025. Всего хорошего!
@@ -242,7 +243,7 @@ a= 'Hello World'
 print(a.replace(' ', ' my '))
 ```
 ### Результат.
-![Меню]()
+![Меню](https://github.com/KhismatullinFl/SoftwareEngineering/blob/tema_2/images/s6.png)
 
 ## Выводы
 Код заменяет пробел в строке Hello World на  my  и выводит Hello my World
@@ -255,7 +256,7 @@ a='Hello World'
 print(len(a))
 ```
 ### Результат.
-![Меню]()
+![Меню](https://github.com/KhismatullinFl/SoftwareEngineering/blob/tema_2/images/s7.png)
 
 ## Выводы
 Код присваивает переменной a строку 'Hello World' и выводит ее длину 11
@@ -268,7 +269,7 @@ a = 'HELLO WORLD'
 print(a.lower())
 ```
 ### Результат.
-![Меню]()
+![Меню](https://github.com/KhismatullinFl/SoftwareEngineering/blob/tema_2/images/s8.png)
 
 ## Выводы
 Код присваивает переменной a строку 'HELLO WORLD' и выводит ее в нижнем регистре
@@ -282,7 +283,7 @@ a,b = 2,3
 print(a*b)
 ```
 ### Результат.
-![Меню]()
+![Меню](https://github.com/KhismatullinFl/SoftwareEngineering/blob/tema_2/images/s9.png)
 
 ## Выводы
 Код присваивает переменной a, b  2 и 3, умножает их и выводит результат 6
@@ -296,7 +297,7 @@ a='Hello World'
 print(a.replace('World', ''))
 ```
 ### Результат.
-![Меню]()
+![Меню](https://github.com/KhismatullinFl/SoftwareEngineering/blob/tema_2/images/s10.png)
 
 ## Выводы
 Код удаляет из строки Hello World слово World и печатает Hello
