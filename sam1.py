@@ -1,0 +1,5 @@
+s = input()
+l = list(map(int, s.split()))  
+t = tuple(l)                
+print(l)
+print(t)
